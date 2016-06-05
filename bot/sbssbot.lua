@@ -239,18 +239,18 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {122774063},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @sina7sk
+    @Bl4ck_Nightmare
     Manager:
-    @yellowhat
+    @Bl4ck_Nightmare
     Founder:
-    @amirho3in
+    @Bl4ck_Nightmare
     
     Special Thank To:
     Mehr Pouya
